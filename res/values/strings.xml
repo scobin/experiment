@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTaoBao</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <!-- Common -->
+    <string name="common_btn_confirm">Confirm</string>
+    <string name="common_btn_cancel">Cancel</string>
+    <!-- Login -->
+    <string name="login_hint_user_id">User Id</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_title">My TaoBao</string>
+    <string name="login_btn_login">Login</string>
+    <string name="login_btn_exit">Exit</string>
+    <string name="login_dlg_title">Login Form</string>
+    <string name="login_link_register"><u>Register</u></string>
+    <string name="login_exit_message">Do you want to exit the app?</string>
+    <!-- Register -->
+    <string name="register_title">Create a new Account</string>
+    <string name="register_hint_user_id">Input a new User Id</string>
+    <string name="register_hint_password">Input your Password</string>
+    <string name="register_hint_verify_code">Input the Code</string>
+    <string name="register_dlg_title">Register</string>
+    <!-- Message -->
+    <string name="msg_login_fail">Login is fail!!</string>
+    <string name="msg_register_fail">Register is fail!!</string>
+    <string name="msg_register_succeeded">Register succeeded!!</string>
+    <string name="msg_register_vrfcode_incorrect">Verfiy Code is incorrect!!</string>
+
+</resources>
